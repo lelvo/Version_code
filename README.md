@@ -18,6 +18,4 @@ def test_different():
     # Test case 5: n1, n2 et n3 sont tous différents
     assert different(8, 9, 10) == "tous différents"
 
-    print("Tous les tests ont réussi !")
-
 test_different()
